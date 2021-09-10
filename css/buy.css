@@ -267,7 +267,7 @@ option {
   .fl-form .form-group {
     margin-bottom: 0;
   }
-  .buy__title span,
+  .buy__title ,
   .form__title,
   .buy__title-accent,
   .error-message {
